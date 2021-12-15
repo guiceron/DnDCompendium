@@ -5,6 +5,7 @@ Every hazard has a description and is associated with one or more environments.
 Environments are:
 **forest, mountain, swamp, desert, arctic, coast, aquatic, grassland, underground, city, ruins, dungeon**
 
+# Hazards2
   {
     "name": "Flora Luminosa",
     "description": "Flora luminescente floresce no subsolo, onde musgos e fungos são as principais fontes de luz natural. Às vezes, essa flora pode desenvolver sistemas de defesa.",
@@ -247,6 +248,3 @@ Environments are:
     "rarity": "2",
     "environment": "grassland, swamp"
   }
-
-
-
